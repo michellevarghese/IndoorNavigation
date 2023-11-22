@@ -9,8 +9,6 @@
 # DEMO
 https://github.com/michellevarghese/IndoorNavigation/assets/73420769/718bb818-4544-41d9-a5e4-28fbffe1ec1e
 
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/8e03c34a-3f20-4e11-a16e-275b9621042d)
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/3cb8338a-1d1e-47d0-be41-d9abad4f7348)
 
 
 
