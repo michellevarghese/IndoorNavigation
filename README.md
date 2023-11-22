@@ -1,12 +1,18 @@
 # IndoorNavigation
 
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/b4f024b9-34a5-4174-b75f-371d6e1bd833)
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/59ba971b-9e6b-4dae-a59d-d3f45cc3a6e2)
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/09b03a6a-d393-4c12-9dee-d8e778f52267)
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/3595daa2-c7d1-48b3-8669-56a055e28519)
-![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/dfdb62e0-7bba-47fd-b8c8-cfd125e020ce)
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/039f85b3-b43c-4d32-aa44-c00812841b88)
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/bc329bdf-791d-45ea-ad16-e4f6d6212841)
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/12397f6a-09af-43e5-9d89-3c83a29e046d)
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/dcb0a131-4bcb-4f29-a570-3872f631b60f)
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/3e81fce6-0515-4a91-93d3-5e08d40a956f)
+
 # DEMO
 https://github.com/michellevarghese/IndoorNavigation/assets/73420769/718bb818-4544-41d9-a5e4-28fbffe1ec1e
+
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/8e03c34a-3f20-4e11-a16e-275b9621042d)
+![image](https://github.com/michellevarghese/IndoorNavigation/assets/73420769/3cb8338a-1d1e-47d0-be41-d9abad4f7348)
+
+
 
 
 
